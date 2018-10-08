@@ -8,5 +8,10 @@ public class add{
         int sum = first + second;
 
         System.out.println("The sum is: " + sum);
+        
+        int arg1 = 10;
+        int arg2 = 30;
+        
+        int mult = arg1 * arg2;
     }
 }
