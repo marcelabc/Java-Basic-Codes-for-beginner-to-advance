@@ -11,5 +11,8 @@ public class add{
         
         int resultado = 50;
         int mult = resultado * 2;
+        
+        int divisor = 2;
+        int divisao = sum / divisor;
     }
 }
