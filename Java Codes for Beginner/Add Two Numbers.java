@@ -8,5 +8,7 @@ public class add{
         int sum = first + second;
 
         System.out.println("The sum is: " + sum);
+        
+        int subtracao = 20 - 10;
     }
 }
