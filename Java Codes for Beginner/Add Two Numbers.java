@@ -9,6 +9,10 @@ public class add{
 
         System.out.println("The sum is: " + sum);
         
-        int subtracao = 20 - 10;
+        int resultado = 50;
+        int mult = resultado * 2;
+        
+        int divisor = 2;
+        int divisao = sum / divisor;
     }
 }

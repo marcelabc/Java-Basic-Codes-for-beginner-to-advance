@@ -1,0 +1,13 @@
+diff --git a/Java Codes for Beginner/Add Two Numbers.java b/Java Codes for Beginner/Add Two Numbers.java
+index d9154d6..3122db7 100644
+--- a/Java Codes for Beginner/Add Two Numbers.java	
++++ b/Java Codes for Beginner/Add Two Numbers.java	
+@@ -14,5 +14,7 @@ public class add{
+         
+         int divisor = 2;
+         int divisao = sum / divisor;
++        
++        float numero = 1.2;
+     }
+ }
+\ No newline at end of file
